@@ -9,6 +9,7 @@ This project is a follow-up project from [NY Big Data Analytic Project](https://
 ## Repository Content
 The [forecast notebook](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) contains the code to replicate the project
 ## Highlight of Resutls
+<img style="float: right;" src="./Pics/sample2.PNG">
 <img  src="./Pics/sample.PNG" alt="drawing" height = 200 width="400"/>
 <img  src="./Pics/sample2.PNG" alt="drawing" height = 200 width="400"/>
 ## Implement Locally
