@@ -7,12 +7,12 @@ The New York City Taxi and Limousine Commission (TLC) was created in 1971. This 
 ## Project Objective
 This project is a follow-up project from [NY Big Data Analytic Project](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git) which we used the the final output dataset to build an interactive time seriesforecast for trip distance and trip amount for taxis. 
 ## Repository Content
-The [forecast notebook] (https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) contains the code to replicate the project
+The [forecast notebook](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) contains the code to replicate the project
 ## Highlight of Resutls
-<img  src="./Pics/taxi.jpg" alt="drawing" height = 200 width="400"/>
-<img  src="./Pics/taxi.jpg" alt="drawing" height = 200 width="400"/>
+<img  src="./Pics/sample.PNG" alt="drawing" height = 200 width="400"/>
+<img  src="./Pics/sample2.PNG" alt="drawing" height = 200 width="400"/>
 ## Implement Locally
-To implement this project locally on your personal laptop, you need to [clone ]https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast] (https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
+To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast] (https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
 <br>
 ![taxi](./Pics/viz.PNG)
 
