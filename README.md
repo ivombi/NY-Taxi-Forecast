@@ -16,7 +16,7 @@ The [forecast notebook](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/for
 ## Implement Locally
 To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
 <br>
-![taxi](./Pics/viz.PNG)
+
 
 ## Related Project
 > - [New York Big Data Analytic Project](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)
