@@ -13,9 +13,10 @@ The [forecast notebook](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/for
 <img  src="./Pics/sample.PNG" alt="drawing" height = 400 width="600"/>
 
 ## Implement Locally
-To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast] (https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
+To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
 <br>
 ![taxi](./Pics/viz.PNG)
 
 ## Related Project
 > - [New York Big Data Analytic Project](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)
+> - [New York Taxi Visualization Project](https://github.com/ivombi/NY-Taxi.git)
