@@ -5,16 +5,18 @@ The New York City Taxi and Limousine Commission (TLC) was created in 1971. This 
 <img  src="./Pics/taxi.jpg" alt="drawing" height = 200 width="400"/>
 
 ## Project Objective
-This project is a follow-up project from [NY Big Data Analytic Project](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git) which we used the the final output dataset to build an interactive time series forecast for trip distance and trip amount for taxis. 
+This is a follow-up project from [NY Big Data Analytic Project](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git) which we used the the final output dataset to build an interactive time series forecast for trip distance and trip amount for taxis. 
 ## Repository Content
 The [forecast notebook](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) contains the code to replicate the project.
+## Methods
+The main tools behind this project is the [pmdarima](http://alkaline-ml.com/pmdarima/index.html) library which is the ARIMA estimators for python. Also we made use of [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/) to include some interactivity were the start and end destination could be varied and the forecast of trip duration or trip duration could be determine.
 
 ## Highlight of Resutls
 
 <img  src="./Pics/sample.PNG" alt="drawing" height = 400 width="600"/>
 
 ## Implement Locally
-To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook. Sample result  Below
+To implement this project locally on your personal laptop, you need to [clone ](https://github.com/ivombi/NY-Taxi-Forecast.git) this repository and run the [forecast](https://github.com/ivombi/NY-Taxi-Forecast/blob/main/forecast.ipynb) notebook.
 <br>
 
 
